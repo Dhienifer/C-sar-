@@ -12,7 +12,7 @@ Codec (Na visão de usuário):
 
 Compilando o código fonte da Cifra (Utilizando PHP):
 -----------
-Pré requisitos: Servidor que leia os arquivos .php/.js
+Pré requisitos: Servidor que leia os arquivos .php
 
 Coloque todos os arquivos na sua pasta localhost
 
@@ -34,8 +34,8 @@ Visão geral do repositório:
 -----------
 1. interface: Funções responsáveis pela leitura e escrita dos caracteres a serem decifrados/cifrados.
 2. index: Definições  das funções do arquivo .
-3. Controller.index: Funções principais responsáveis pela compressão/descompressão e compactação/descompactação.
+3. Controller: Funções principais responsáveis pela compressão/descompressão e compactação/descompactação.
 
 Novas funcionalidades (Futuro):
 -----------
-- Adivinhar a palavra sem ter que inseri-la  de forma manual na base de dados.
+- nada futuramente
